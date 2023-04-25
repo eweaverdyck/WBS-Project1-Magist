@@ -1,5 +1,6 @@
 # WBS-Project1-Magist
-WBS First Project
+WBS First Project. Created in April 2023.
+
 Eniac is an online marketplace specializing in Apple-compatible accessories and is exploring an expansion to the Brazilian market. 
 
 Data shows that:
@@ -36,9 +37,17 @@ Avg order price: 710 €
 
 Avg item price: 540 €
 
-Is Magist a good partner for Eniac?
-•	Products
-•	Delivery time
-•	Sellers
+# Is Magist a good partner for Eniac?
+We answered this questions focusing on:
+
+- Delivery time
+- Products
+- Sellers
+
+# Link to the final presentation:
+https://docs.google.com/presentation/d/11bDpULJG2whT-US1uf7s9MwwunNwvvvXlaYTsslbgl8/edit#slide=id.p
+
+
+
 
 
